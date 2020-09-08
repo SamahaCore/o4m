@@ -136,6 +136,7 @@ textarea {
  */
 .blog-post {
   margin-bottom: 1rem;
+  text-align: justify;
 }
 .blog-post-title {
   margin-bottom: 0.25rem;
